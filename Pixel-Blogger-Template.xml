@@ -1739,40 +1739,6 @@ loadCSS("//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
        <b:includable id='mobile-main' var='top'>
     <!-- posts -->
     <div class='blog-posts hfeed'>
-<b:if cond='data:blog.pageType == &quot;item&quot;'>
-<p class='breadcrumbs'>
-        <span class='post-labels'>
-        <a expr:href='data:blog.homepageUrl' rel='tag'>Home</a>
-        <b:loop values='data:posts' var='post'>
-            <b:if cond='data:post.labels'>
-            <b:loop values='data:post.labels' var='label'>
-                <b:if cond='data:label.isLast == true'> &#187;
-                    <a expr:href='data:label.url' rel='tag'><data:label.name/></a>
-                </b:if>
-            </b:loop>
-            <b:else/>
-            &#187; Unlabelled
-            </b:if>
-            &#187; <span><data:post.title/></span>
-        </b:loop>
-        </span>
-    </p>
-</b:if>
-<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
-<p class='breadcrumbs'>
-  <a expr:href='data:blog.homepageUrl'>Home</a> &#187; <data:blog.pageName/>
-</p>
-</b:if>
-<b:if cond='data:blog.pageType == &quot;archive&quot;'>
-    <p class='breadcrumbs'>
-      <a expr:href='data:blog.homepageUrl'>Home</a> &#187; <data:blog.pageName/>
-    </p>
-</b:if>
-<b:if cond='data:blog.searchLabel'>
-    <p class='breadcrumbs'>
-      <a expr:href='data:blog.homepageUrl'>Home</a> &#187; <data:blog.pageName/>
-    </p>
-</b:if>
       <b:include data='top' name='status-message'/>
 
       <b:if cond='data:blog.pageType == &quot;index&quot;'>
