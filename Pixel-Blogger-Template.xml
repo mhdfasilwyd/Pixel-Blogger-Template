@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
-
     <b:if cond='data:blog.pageType == &quot;index&quot;'>
     <title><data:blog.pageTitle/></title>
     <b:else/>
@@ -12,7 +11,6 @@
     <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
     <title>Page Not Found - <data:blog.title/></title>
     </b:if>
-
 	<!--META-->
 	<meta charset='utf-8'/>
 	<meta content='width' name='MobileOptimized'/>
@@ -3154,7 +3152,7 @@ head.appendChild(script);
         <div class='pixel-cwrap body-row'>
          
                     <div class='pixel-credit_copyright'>
-                      Copyright 2018, <a expr:href='data:blog.homepageUrl'><data:blog.title/></a> | All rights Reserved</div>      
+                      Copyright 2019 <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>All rights Reserved</div>      
         </div>
     </div>
 
