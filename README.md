@@ -13,8 +13,6 @@ This template is free for commercial and private use but comes with no support. 
 
 ## Useful resources 
 
-* [Mobile Friendly Blogger Template Free](https://www.pcweek.in/2018/11/mobile-friendly-blogger-template-free.html) - Mobile Friendly Blogger Template Free
-* [Responsive Blogger Templates 2019](https://www.pcweek.in/2018/10/responsive-blogger-templates.html) - Fully responsive Top 5 blogger templates 2019
 * [Free Blogger Templates](https://colorlib.com/wp/free-blogger-templates/) - a list of free Blogger templates that have been by Colorlib and other template designers and developers. 
 * [Free Blog Themes](https://colorlib.com/wp/free-wordpress-blog-themes/) - A list of completely free WordPress blog themes. We have selected the best ones and we believe you will enjoy them as much as we. 
 * [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/) - A huge list of mobile friendly and responsive WordPress themes that are completely free. Most of them are made by Colorlib or our trusted partners such as CPO Themes, Macho Themes and more. 
